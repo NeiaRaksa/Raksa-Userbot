@@ -29,7 +29,7 @@ wrong1: "Bruh, sekarang saya pikir seberapa jauh kita harus melangkah. tolong he
 server1: "Mengalami kesalahan teknis."
 
 # commons
-com_1: "`Memproses...`"
+com_1: "`Sabar Tod...`"
 com_2: "`Sedang Mencari...`"
 com_3: "`Yang anda Masukan Tidak Valid`"
 com_4: "`Media Tidak Didukung..`"
@@ -51,7 +51,7 @@ error_8: "**KESALAHAN: {} tidak merespon silahkan coba lagi nanti**"
 #for yins
 ayiin_1: "**[ᴋᴏɴᴛᴏʟ]** - Perintah Itu Dilarang Di Gc Ini Goblok..."
 ayiin_2: "**[ᴋᴏɴᴛᴏʟ]** - Tidak dapat menyamar sebagai Developer Kazu-Userbot Ngentod 😡"
-ayiin_3: "**Maaf Telah MengClone Kazu 🥺**"
+ayiin_3: "**Maaf Telah MengClone Raksa 🥺**"
 
 # admintools
 prom_1: "`Mempromosikan...`"
@@ -344,7 +344,7 @@ flr_3: "`Berikan filter untuk dihapus..`"
 flr_4: "**Berhasil Menambahkan Filter** `{}` **{}**"
 flr_5: "**Berhasil Menghapus Filter** `{}`"
 flr_6: "Tidak Ada Filter Apapun Disini"
-flr_7: "**#FILTER\nID OBROLAN:** {}\n**TRIGGER:** `{}`\n\n**Pesan Berikut Disimpan Sebagai Data Balasan Filter Untuk Obrolan, Mohon Jangan Menghapusnya**"
+flr_7: "**#FILTER\nID OBROLAN:** {}\n**TRIGGER:** `{ini}`\n\n**Pesan Berikut Disimpan Sebagai Data Balasan Filter Untuk Obrolan, Mohon Jangan Menghapusnya**"
 flr_8: "**Untuk menyimpan media sebagai balasan ke filter** `BOTLOG_CHATID` **harus disetel.**"
 flr_9: "**Filter** `{}` **Tidak Ada Disini**."
 flr_10: "**Bot Itu Belum Didukung!**"
@@ -374,7 +374,7 @@ ungban_4: "**\\#𝙐𝙣𝙂𝙗𝙖𝙣𝙣𝙚𝙙_𝙐𝙨𝙚𝙧//**\n\n**�
 # gcast tools
 gcast_1: "**Berikan Sebuah Pesan atau Reply**"
 gcast_2: "**Berhasil Mengirim Pesan Ke** {} **Grup Tod.**\n**Sorry Tod Gagal Mengirim Pesan Ke** {} **Grup.**"
-gcast_3: "`Sedang Mengirim Mohon Bersabar... Kalo Limit Jangan Salahin Kazu Okay...`"
+gcast_3: "`Sedang Mengirim Mohon Bersabar... Kalo Limit Jangan Salahin Raksa Okay...`"
 gucast_1: "**Berhasil Mengirim Pesan Ke** {} **Chat Tod.**\n**Sorry Tod Gagal Mengirim Pesan Ke** {} **Chat.**"
 blkls_1: "**🔮 Blacklist GCAST:** `Enabled`\n\n📚 **Blacklist Group:**\n» {}\n\nKetik `{}addblacklist` di grup yang ingin anda tambahkan ke daftar blacklist gcast."
 blkls_2: "**🔮 Blacklist GCAST:** `Disabled`"
@@ -604,8 +604,8 @@ pdf_3: "**ERROR: @office2pdf_bot tidak merespon, coba lagi nanti**"
 pdf_4: "**Mohon Reply ke teks apa pun**"
 
 # pmpermit tools
-prmt_1: "╔═════════════════════╗\n│ ㅤ ㋡𝚂𝙴𝙻𝙰𝙼𝙰𝚃 𝙳𝙰𝚃𝙰𝙽𝙶 𝙺𝙸𝙳𝚂㋡ㅤ  ㅤ   \n╚═════════════════════╝\n⍟ 𝙹𝙰𝙽𝙶𝙰𝙽 𝚂𝙿𝙰𝙼 𝙲𝙷𝙰𝚃 𝙼𝙰𝙹𝙸𝙺𝙰𝙽 𝙶𝚄𝙰\n⍟ 𝙶𝚄𝙰 𝙰𝙺𝙰𝙽 𝙾𝚃𝙾𝙼𝙰𝚃𝙸𝚂 𝙱𝙻𝙾𝙺𝙸𝚁 𝙺𝙰𝙻𝙾 𝙻𝚄 𝚂𝙿𝙰𝙼\n⍟ 𝙹𝙰𝙳𝙸 𝚃𝚄𝙽𝙶𝙶𝚄 𝚂𝙰𝙼𝙿𝙰𝙸 𝙼𝙰𝙹𝙸𝙺𝙰𝙽 𝙶𝚄𝙰 𝙽𝙴𝚁𝙸𝙼𝙰 𝙿𝙴𝚂𝙰𝙽 𝙻𝚄\n╔═════════════════════╗\n│ㅤㅤ㋡ 𝙿𝙴𝚂𝙰𝙽 𝙾𝚃𝙾𝙼𝙰𝚃𝙸𝚂 ㋡ㅤ      \n│ㅤㅤ㋡ 𝙺𝙰𝚉𝚄 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ㋡ㅤㅤ   \n╚═════════════════════╝\n"
-prmt_2: "**Maaf Anda Diblokir karna melakukan spam ke tuan saya**"
+prmt_1: "╔═════════════════════╗\n│ ㅤ ㋡𝚂𝙴𝙻𝙰𝙼𝙰𝚃 𝙳𝙰𝚃𝙰𝙽𝙶 𝙺𝙸𝙳𝚂㋡ㅤ  ㅤ   \n╚═════════════════════╝\n⍟ RAKSA SEDANG OFF ATAU BERADA DI AKUN LAIN\n⍟ GUA AKAN OTOMATIS BLOKIR KALO LU SPAM\n⍟ JADI TUNGGU SI RAKSA NERIMA PESAN LU\n╔═════════════════════╗\n│ㅤㅤ㋡ 𝙿𝙴𝚂𝙰𝙽 𝙾𝚃𝙾𝙼𝙰𝚃𝙸𝚂 ㋡ㅤ      \n│ㅤㅤ㋡ ʀᴀᴋꜱᴀ ᴜꜱᴇʀʙᴏᴛ ㋡ㅤㅤ   \n╚═════════════════════╝\n"
+prmt_2: "**DIBILANG JANGAN SPAM TOLOL,KE BLOKIR KAN LU**"
 prmt_3: "**Terjadi Error Saat Menghitung Pesan pribadi, Mohon Restart Bot!**"
 prmt_4: "Gagal menghitung PM yang diterima"
 prmt_5: "**[{}](tg://user?id={}) Telah diblokir karna melakukan spam ke tuan saya**"
