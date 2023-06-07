@@ -145,14 +145,14 @@ async def _(pong):
     await kping.edit("8===✊D")
     await kping.edit("8===✊D💦")
     await kping.edit("8====D💦💦")
-    await kping.edit("**KAZUUUUU**")
-    await kping.edit("**DISINI KAZU YAGESYA.....**")
+    await kping.edit("**RAKSA**")
+    await kping.edit("**DISINI RAKSA UYAGESYA.....**")
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     await kping.edit("🥵")
     sleep(3)
     await kping.edit(
-        f"**𝙺𝙰𝚉𝚄 𝚃𝙰𝙼𝙿𝙰𝙽!! 🥵**\n**𝙿𝙸𝙽𝙶𝙴𝚁** : %sms\n**𝙱𝙾𝚃 𝚄𝙿𝚃𝙸𝙼𝙴** : {uptime}🕛" % (duration)
+        f"**RAKSA TAMPAN!! 🥵**\n**𝙿𝙸𝙽𝙶𝙴𝚁** : %sms\n**𝙱𝙾𝚃 𝚄𝙿𝚃𝙸𝙼𝙴** : {uptime}🕛" % (duration)
     )
 
 
